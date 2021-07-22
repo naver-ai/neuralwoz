@@ -1,3 +1,9 @@
+"""
+NeuralWOZ
+Copyright (c) 2021-present NAVER Corp.
+Apache License v2.0
+"""
+
 from copy import deepcopy
 import random
 from .multiwoz_utils import get_summary_bstate

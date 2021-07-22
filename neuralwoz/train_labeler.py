@@ -1,3 +1,9 @@
+"""
+NeuralWOZ
+Copyright (c) 2021-present NAVER Corp.
+Apache License v2.0
+"""
+
 from transformers import AdamW, get_linear_schedule_with_warmup
 from models import RobertaTokenizer, RobertaForMultipleChoice
 

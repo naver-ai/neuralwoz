@@ -1,3 +1,9 @@
+"""
+NeuralWOZ
+Copyright (c) 2021-present NAVER Corp.
+Apache License v2.0
+"""
+
 from collector import  Collector
 from utils.data_utils import download_checkpoint
 from utils.constants import SPECIAL_TOKENS

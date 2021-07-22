@@ -1,3 +1,9 @@
+"""
+NeuralWOZ
+Copyright (c) 2021-present NAVER Corp.
+Apache License v2.0
+"""
+
 from torch.utils.data import Dataset
 import torch
 from tqdm import tqdm

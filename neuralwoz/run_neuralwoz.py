@@ -1,3 +1,9 @@
+"""
+NeuralWOZ
+Copyright (c) 2021-present NAVER Corp.
+Apache License v2.0
+"""
+
 from collector import construct_state_candidate_from_multiwoz, Collector
 from labeler import Labeler
 from utils.constants import SPECIAL_TOKENS

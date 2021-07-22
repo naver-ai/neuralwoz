@@ -1,3 +1,9 @@
+"""
+NeuralWOZ
+Copyright (c) 2021-present NAVER Corp.
+Apache License v2.0
+"""
+
 import torch
 from utils.data_utils import make_dst_target
 from utils.eval_utils import Evaluator, DSTEvaluator

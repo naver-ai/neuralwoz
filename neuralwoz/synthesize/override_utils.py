@@ -1,3 +1,9 @@
+"""
+NeuralWOZ
+Copyright (c) 2021-present NAVER Corp.
+Apache License v2.0
+"""
+
 import nltk
 from nltk.translate.bleu_score import sentence_bleu
 import re

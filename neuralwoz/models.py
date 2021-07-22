@@ -1,3 +1,9 @@
+"""
+NeuralWOZ
+Copyright (c) 2021-present NAVER Corp.
+Apache License v2.0
+"""
+
 from transformers import BartTokenizer, BartForConditionalGeneration
 from transformers import RobertaTokenizer, RobertaForMultipleChoice
 import torch
