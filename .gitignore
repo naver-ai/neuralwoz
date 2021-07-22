@@ -1,0 +1,7 @@
+__pycache__
+outputs/
+data/
+*env/
+*.ipynb
+.DS_Store
+
