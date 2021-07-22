@@ -123,7 +123,7 @@ Please download synthetic dialogues from [here](https://drive.google.com/drive/f
 - Specifically, It contains synthetic dialogues for the `target_domain` while excluding original dialogues for the target domain (leave-one-out setup)
 - You can check the i-th synthesized dialogue in each files with `aug_{target_domain}_{fewshot_proprotion}_{i}` for `dialogue_idx` key.
 - You can use the json file to directly train zero/few-shot learner for DST task
-- Please see [readme](#) for training TRADE and [readme](#) for training SUMBT using the dataset
+- Please see [readme](https://github.com/naver-ai/neuralwoz/blob/main/trade-dst/README.md) for training TRADE and [readme](https://github.com/naver-ai/neuralwoz/blob/main/SUMBT/README.md) for training SUMBT using the dataset
 - If you want to synthesize your own dialogues, please see below sections.
 
 
